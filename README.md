@@ -1,2 +1,11 @@
-# ppml-workshop
-Repository for the "Privacy in the World of Data Science" workshop
+# Privacy in the World of Data Science
+
+## Data
+
+## Getting Started
+
+## Files
+
+## Summary
+
+## Acknowledgements
