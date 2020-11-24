@@ -1,6 +1,6 @@
 # Privacy in the World of Data Science
 
-This repository contains the source code for the *Privacy in the World of Data Science* - A workshop introducing the importance of data privacy and privacy preserving machine learning techniques.
+This repository contains the hands-on session codes for *Privacy in the World of Data Science* - a workshop introducing the importance of data privacy and privacy preserving machine learning techniques.
 
 ## Data
 
