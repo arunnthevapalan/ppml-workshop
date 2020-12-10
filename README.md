@@ -9,8 +9,10 @@ We would use the built-in datasets in the scikit-learn library, so there is no n
 ## Getting Started
 
 The project was developed using python 3.6.7 with the following packages.
-- Scikit-learn
 - Diffprivlib
+- Scikit-learn
+- Matplotlib
+- Numpy
 
 Installation with pip:
 ``` 
